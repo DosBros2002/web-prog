@@ -1,0 +1,14 @@
+.hero-section {
+    background: url("https://www.shutterstock.com/image-photo/cars-sale-stock-row-car-600nw-636632101.jpg")
+        no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.inventory-section,
+.about-us-section,
+.contact-form-section {
+    text-align: center;
+}
